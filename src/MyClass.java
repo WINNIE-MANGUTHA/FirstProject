@@ -8,6 +8,8 @@ public class MyClass {
         y = 35;
         answer = x % y; 
         System.out.println("answer =" + answer);
+        System.out.println("answer =" + answer);
+
     }
     
 }
